@@ -23,19 +23,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Video elaborado para realização de projeto na DIO. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+A IA utilizada foi o D-ID.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Enviei uma foto minha no estúdio da D-ID, e logo após fui escrevendo o script para alinhar com o vídeo. Após esses passos, o vídeo foi gerado.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Muito desafiador. O vídeo não ficou tão real porque é perceptível que as expressões faciais não ficaram naturais, além disso, o corpo não apresentou muito movimento.
+Cabe destacar que o vídeo ficou com uma marca d'agua.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O projeto foi realizador. As IAS ainda acrescentaram pontos muito positivos em nossa sociedade. Ao realizar esse vídeo, compreendi o quanto a nossa tecnologia está avançada
+e assim fico ansioso para os próximos anos.
 ```
 
 ### Exemplos e Insigths
