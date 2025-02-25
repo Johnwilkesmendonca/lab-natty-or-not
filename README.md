@@ -23,7 +23,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Video elaborado para realização de projeto na DIO. 
+Video elaborado para realização de projeto na DIO. https://studio.d-id.com/share?id=cf258d8f6a81918684a0d3f219def81f&utm_source=copy
 
 ## 🤖 Tecnologias Utilizadas
 A IA utilizada foi o D-ID.
